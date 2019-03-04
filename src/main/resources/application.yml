@@ -1,6 +1,6 @@
 server:
   servlet:
-    context-path: /assignement
+    context-path: /assignment
 spring:
   application:
     name: user-management
